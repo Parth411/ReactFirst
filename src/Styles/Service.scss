@@ -1,0 +1,11 @@
+@import 'colors';
+
+.service {
+
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-style: normal;
+color: $third;
+}
